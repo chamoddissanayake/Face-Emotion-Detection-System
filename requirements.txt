@@ -1,0 +1,6 @@
+keras
+imutils
+opencv-python
+numpy
+playsound
+matplotlib
